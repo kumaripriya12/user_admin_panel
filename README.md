@@ -1,3 +1,24 @@
+Technical Concepts used- 
+1- Components
+2- Hooks 
+2- Router 
+3- Hooks Life cycle methods 
+4- api call using axios 
+6- state, props & browser history 
+7- HTMl5 
+8- bootstrap4 
+9- table, row & columns to display data 
+10- Responsive web design 
+
+Technical skills utilized- 
+1- React js 
+2- Hooks
+3- Javascript 
+3- HTML5 
+4- Bootstrap4
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
