@@ -18,6 +18,14 @@ Technical skills utilized-
 4- Bootstrap4
 
 
+![Screenshot (356)](https://user-images.githubusercontent.com/44428479/88141929-3d692500-cc12-11ea-83f8-812a20fabbf3.png)
+![Screenshot (357)](https://user-images.githubusercontent.com/44428479/88141933-3f32e880-cc12-11ea-8f40-14639fcff78e.png)
+![Screenshot (358)](https://user-images.githubusercontent.com/44428479/88141935-40641580-cc12-11ea-8473-8d83d819068d.png)
+![Screenshot (353)](https://user-images.githubusercontent.com/44428479/88141936-40641580-cc12-11ea-878e-59325a94540a.png)
+![Screenshot (354)](https://user-images.githubusercontent.com/44428479/88141938-40fcac00-cc12-11ea-805e-d010294843a4.png)
+![Screenshot (355)](https://user-images.githubusercontent.com/44428479/88141940-41954280-cc12-11ea-8727-16424f39bb32.png)
+
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
